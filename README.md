@@ -76,26 +76,9 @@ const bencho = {
 <!-- ═══════════════════════════ NOW ═══════════════════════════ -->
 <h2 align="center">⋆｡˚ ahora mismo ˚｡⋆</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/construyendo-191724?style=flat-square&logo=hammer&logoColor=c4a7e7" /><br/><br/>
-      <sub>tu proyecto actual</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/aprendiendo-191724?style=flat-square&logo=bookstack&logoColor=9ccfd8" /><br/><br/>
-      <sub>arquitectura & cloud</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/escuchando-191724?style=flat-square&logo=spotify&logoColor=ebbcba" /><br/><br/>
-      <sub>lo-fi para programar</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/leyendo-191724?style=flat-square&logo=readdotcv&logoColor=e0def4" /><br/><br/>
-      <sub>clean architecture</sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="100%" src="./now.svg" alt="ahora mismo" />
+</p>
 
 <br/>
 
@@ -138,5 +121,5 @@ const bencho = {
 
 <!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c4a7e7,50:26233a,100:191724&height=120&section=footer&animation=fadeIn" alt="footer" />
+  <img width="100%" src="./footer.svg" alt="footer" />
 </p>
