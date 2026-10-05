@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,50:26233a,100:c4a7e7&height=230&section=header&text=Bencho911&fontSize=70&fontColor=e0def4&fontAlignY=36&animation=fadeIn&desc=software%20engineer%20%E2%80%A2%20clean%20code%20%E2%80%A2%20quiet%20design&descSize=18&descAlignY=58&descColor=e0def4" alt="header" />
+  <img width="100%" src="./header.svg" alt="Bencho911 — software engineer" />
 </p>
 
 <p align="center">
@@ -80,7 +80,7 @@ const bencho = {
   <tr>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/construyendo-191724?style=flat-square&logo=hammer&logoColor=c4a7e7" /><br/><br/>
-      <sub>My future</sub>
+      <sub>tu proyecto actual</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/aprendiendo-191724?style=flat-square&logo=bookstack&logoColor=9ccfd8" /><br/><br/>
