@@ -71,9 +71,31 @@ const bencho = {
   <img src="https://streak-stats.demolab.com/?user=Bencho911&hide_border=true&background=191724&ring=C4A7E7&fire=EBBCBA&currStreakLabel=C4A7E7&sideLabels=9CCFD8&dates=6E6A86&currStreakNum=E0DEF4&sideNums=E0DEF4&stroke=26233A" alt="racha" />
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bencho911&bg_color=191724&color=e0def4&line=c4a7e7&point=ebbcba&area=true&area_color=c4a7e7&hide_border=true&custom_title=contribuciones" alt="gráfico de actividad" />
-</p>
+<br/>
+
+<!-- ═══════════════════════════ NOW ═══════════════════════════ -->
+<h2 align="center">⋆｡˚ ahora mismo ˚｡⋆</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/construyendo-191724?style=flat-square&logo=hammer&logoColor=c4a7e7" /><br/><br/>
+      <sub>tu proyecto actual</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/aprendiendo-191724?style=flat-square&logo=bookstack&logoColor=9ccfd8" /><br/><br/>
+      <sub>arquitectura & cloud</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/escuchando-191724?style=flat-square&logo=spotify&logoColor=ebbcba" /><br/><br/>
+      <sub>lo-fi para programar</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/leyendo-191724?style=flat-square&logo=readdotcv&logoColor=e0def4" /><br/><br/>
+      <sub>clean architecture</sub>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -92,10 +114,10 @@ const bencho = {
 <h2 align="center">✦ proyectos ✦</h2>
 
 <p align="center">
-  <a href="https://github.com/CafeQuindio/helpdesk-backend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-1&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
-  <a href="https://github.com/Bencho911/kiora-backend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-2&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
-  <a href="https://github.com/Bencho911/KioraClient-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-3&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
-  <a href="https://github.com/Bencho911/cq-frontend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-4&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/inventarioTics"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=inventarioTics&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" alt="inventarioTics" /></a>
+  <a href="https://github.com/Bencho911/kiora-backend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=kiora-backend&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" alt="kiora-backend" /></a>
+  <a href="https://github.com/Bencho911/KioraClient-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=KioraClient-app&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" alt="KioraClient-app" /></a>
+  <a href="https://github.com/Bencho911/cq-frontend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=cq-frontend&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" alt="cq-frontend" /></a>
 </p>
 
 <br/>
@@ -104,7 +126,7 @@ const bencho = {
 <h2 align="center">✦ conectemos ✦</h2>
 
 <p align="center">
-  <a href="www.linkedin.com/in/ruben-kamilo-castro-ruiz-558b76353"><img src="https://img.shields.io/badge/linkedin-191724?style=for-the-badge&logo=linkedin&logoColor=c4a7e7" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ruben-kamilo-castro-ruiz-558b76353"><img src="https://img.shields.io/badge/linkedin-191724?style=for-the-badge&logo=linkedin&logoColor=c4a7e7" alt="LinkedIn" /></a>
   <a href="mailto:ruben.camilo321@gmail.com"><img src="https://img.shields.io/badge/email-191724?style=for-the-badge&logo=gmail&logoColor=c4a7e7" alt="Email" /></a>
 </p>
 
