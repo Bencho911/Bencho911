@@ -1,94 +1,122 @@
-<!-- Banner principal con paisaje oscuro -->
+<!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=Welcome%20to%20Benjamin's%20GitHub&fontSize=40&fontColor=ffffff&desc=System%20Engineering%20Student&descAlignY=65&descSize=20&descColor=ffffff&animation=fadeIn" alt="Header Banner" />
-</p>
-
-<h3 align="center">¡Hola! Soy Benjamin 👋</h3>
-
-<p align="center">
-  <a href="https://github.com/Bencho911"><img src="https://komarev.com/ghpvc/?username=Bencho911&label=Visitas&color=0e75b6&style=flat-square" alt="Visitas" /></a>
-  <a href="https://github.com/Bencho911?tab=followers"><img src="https://img.shields.io/github/followers/Bencho911?label=Seguidores&style=flat-square&color=0e75b6" alt="Seguidores" /></a>
-  <a href="https://github.com/Bencho911"><img src="https://img.shields.io/github/stars/Bencho911?label=Estrellas&style=flat-square&color=0e75b6" alt="Estrellas" /></a>
-</p>
-
----
-
-## 👨‍💻 About me
-
-Soy un estudiante de Ingeniería de Sistemas apasionado por la tecnología y el desarrollo de software. Actualmente me encuentro aprendiendo nuevas herramientas y lenguajes, y me encanta resolver problemas en plataformas como GitHub y Codeforces. También soy Tutor de C++ en la universidad y jugador de ajedrez en mi tiempo libre.
-
-- 🔭 Actualmente estoy trabajando en **proyectos personales y open source**.
-- 🌱 Aprendiendo constantemente sobre **algoritmos, estructuras de datos y desarrollo web**.
-- 👯 Busco colaborar en proyectos que **generen impacto real**.
-- 💬 Pregúntame sobre **C++, Python, Java o resolución de problemas**.
-- ⚡ Dato curioso: **puedo pasar horas ajustando un detalle visual en una interfaz**.
-
----
-
-## 🛠️ Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,html,css,react,bootstrap,git,github,gcp,vscode,linux" alt="Tech Stack" />
-</p>
-
----
-
-## 📊 Statistics
-
-<p align="center">
-  <a href="https://github.com/Bencho911">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bencho911&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/Bencho911">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bencho911&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Lenguajes más usados" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191724,50:26233a,100:c4a7e7&height=230&section=header&text=Bencho911&fontSize=70&fontColor=e0def4&fontAlignY=36&animation=fadeIn&desc=software%20engineer%20%E2%80%A2%20clean%20code%20%E2%80%A2%20quiet%20design&descSize=18&descAlignY=58&descColor=e0def4" alt="header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Bencho911">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bencho911&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Racha de contribuciones" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=C4A7E7&center=true&vCenter=true&width=520&lines=full+stack+developer;aesthetic+interfaces+%E2%9C%A6;open+source+enthusiast;siempre+aprendiendo+algo+nuevo..." alt="typing" />
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bencho911&label=visitas&color=c4a7e7&style=flat-square" alt="visitas" />
+  <img src="https://img.shields.io/github/followers/Bencho911?label=seguidores&style=flat-square&color=9ccfd8&labelColor=191724" alt="seguidores" />
+  <img src="https://img.shields.io/github/stars/Bencho911?label=estrellas&style=flat-square&color=ebbcba&labelColor=191724" alt="estrellas" />
+</p>
 
-## 📈 Contribution Graph
+<br/>
+
+<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<h2 align="center">⋆｡˚ ☾ sobre mí ☽ ˚｡⋆</h2>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+```ts
+const bencho = {
+  role:      "Software Engineer",
+  focus:     ["arquitectura", "cloud", "buenas prácticas"],
+  building:  "proyectos personales & open source",
+  askMeAbout: ["JS/TS", "React", "Node.js", "Python", "UI design"],
+  lookingFor: "colaborar en proyectos con impacto real",
+  funFact:   "puedo pasar horas ajustando 1px en una interfaz",
+};
+```
+
+</td>
+<td width="45%" valign="middle" align="center">
+
+<i>“El código es como el humor.<br/>Cuando tienes que explicarlo,<br/>es que no es tan bueno.”</i>
+<br/><br/>
+<sub>— Cory House</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════ STACK ═══════════════════════════ -->
+<h2 align="center">✦ stack ✦</h2>
 
 <p align="center">
-  <a href="https://github.com/Bencho911">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bencho911&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Gráfico de actividad" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,tailwind,docker,git,linux,figma&theme=dark&perline=10" alt="stack" />
   </a>
 </p>
 
----
+<br/>
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Bencho911/TU_PROYECTO_1">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=TU_PROYECTO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>
-  <a href="https://github.com/Bencho911/TU_PROYECTO_2">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=TU_PROYECTO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  </a>
-</p>
-
----
-
-## 📫 Connect with me
+<!-- ═══════════════════════════ STATS ═══════════════════════════ -->
+<h2 align="center">✦ actividad ✦</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/TU_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:TU_EMAIL@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>✨ "Diseño no es solo cómo se ve, sino cómo funciona." — Steve Jobs</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bencho911&show_icons=true&hide_border=true&rank_icon=github&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4&ring_color=c4a7e7" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bencho911&layout=compact&hide_border=true&bg_color=191724&title_color=c4a7e7&text_color=e0def4" alt="lenguajes" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=80&section=footer" />
+  <img src="https://streak-stats.demolab.com/?user=Bencho911&hide_border=true&background=191724&ring=C4A7E7&fire=EBBCBA&currStreakLabel=C4A7E7&sideLabels=9CCFD8&dates=6E6A86&currStreakNum=E0DEF4&sideNums=E0DEF4&stroke=26233A" alt="racha" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Bencho911&bg_color=191724&color=e0def4&line=c4a7e7&point=ebbcba&area=true&area_color=c4a7e7&hide_border=true&custom_title=contribuciones" alt="gráfico de actividad" />
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bencho911/Bencho911/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bencho911/Bencho911/output/github-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/Bencho911/Bencho911/output/github-snake-dark.svg" />
+  </picture>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<h2 align="center">✦ proyectos ✦</h2>
+
+<p align="center">
+  <a href="https://github.com/Bencho911/proyecto-1"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-1&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/proyecto-2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-2&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/proyecto-3"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-3&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/proyecto-4"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-4&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
+<h2 align="center">✦ conectemos ✦</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/Bencho911"><img src="https://img.shields.io/badge/linkedin-191724?style=for-the-badge&logo=linkedin&logoColor=c4a7e7" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/Bencho911"><img src="https://img.shields.io/badge/x-191724?style=for-the-badge&logo=x&logoColor=c4a7e7" alt="X" /></a>
+  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/email-191724?style=for-the-badge&logo=gmail&logoColor=c4a7e7" alt="Email" /></a>
+  <a href="https://TU_PORTFOLIO.com"><img src="https://img.shields.io/badge/portafolio-191724?style=for-the-badge&logo=vercel&logoColor=c4a7e7" alt="Portafolio" /></a>
+</p>
+
+<br/>
+
+<p align="center">
+  <sub><i>“diseño no es solo cómo se ve, sino cómo funciona.” — steve jobs</i></sub>
+</p>
+
+<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c4a7e7,50:26233a,100:191724&height=120&section=footer&animation=fadeIn" alt="footer" />
 </p>
