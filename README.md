@@ -104,10 +104,8 @@ const bencho = {
 <h2 align="center">✦ conectemos ✦</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/Bencho911"><img src="https://img.shields.io/badge/linkedin-191724?style=for-the-badge&logo=linkedin&logoColor=c4a7e7" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/Bencho911"><img src="https://img.shields.io/badge/x-191724?style=for-the-badge&logo=x&logoColor=c4a7e7" alt="X" /></a>
-  <a href="mailto:tu@email.com"><img src="https://img.shields.io/badge/email-191724?style=for-the-badge&logo=gmail&logoColor=c4a7e7" alt="Email" /></a>
-  <a href="https://TU_PORTFOLIO.com"><img src="https://img.shields.io/badge/portafolio-191724?style=for-the-badge&logo=vercel&logoColor=c4a7e7" alt="Portafolio" /></a>
+  <a href="www.linkedin.com/in/ruben-kamilo-castro-ruiz-558b76353"><img src="https://img.shields.io/badge/linkedin-191724?style=for-the-badge&logo=linkedin&logoColor=c4a7e7" alt="LinkedIn" /></a>
+  <a href="mailto:ruben.camilo321@gmail.com"><img src="https://img.shields.io/badge/email-191724?style=for-the-badge&logo=gmail&logoColor=c4a7e7" alt="Email" /></a>
 </p>
 
 <br/>
