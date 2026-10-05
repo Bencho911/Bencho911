@@ -18,7 +18,9 @@
 <br/>
 
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
-<h2 align="center">⋆｡˚ ☾ sobre mí ☽ ˚｡⋆</h2>
+<p align="center">
+  <img width="100%" src="./sec-sobre-mi.svg" alt="sobre mí" />
+</p>
 
 <table align="center">
 <tr>
@@ -49,7 +51,9 @@ const bencho = {
 <br/>
 
 <!-- ═══════════════════════════ STACK ═══════════════════════════ -->
-<h2 align="center">✦ stack ✦</h2>
+<p align="center">
+  <img width="100%" src="./sec-stack.svg" alt="stack" />
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,7 +64,9 @@ const bencho = {
 <br/>
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<h2 align="center">✦ actividad ✦</h2>
+<p align="center">
+  <img width="100%" src="./sec-actividad.svg" alt="actividad" />
+</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bencho911&show_icons=true&hide_border=true&rank_icon=github&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4&ring_color=c4a7e7" alt="stats" />
@@ -74,7 +80,9 @@ const bencho = {
 <br/>
 
 <!-- ═══════════════════════════ NOW ═══════════════════════════ -->
-<h2 align="center">⋆｡˚ ahora mismo ˚｡⋆</h2>
+<p align="center">
+  <img width="100%" src="./sec-ahora.svg" alt="ahora mismo" />
+</p>
 
 <p align="center">
   <img width="100%" src="./now.svg" alt="ahora mismo" />
@@ -94,7 +102,9 @@ const bencho = {
 <br/>
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
-<h2 align="center">✦ proyectos ✦</h2>
+<p align="center">
+  <img width="100%" src="./sec-proyectos.svg" alt="proyectos" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Bencho911/inventarioTics"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=inventarioTics&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" alt="inventarioTics" /></a>
@@ -106,7 +116,9 @@ const bencho = {
 <br/>
 
 <!-- ═══════════════════════════ CONTACT ═══════════════════════════ -->
-<h2 align="center">✦ conectemos ✦</h2>
+<p align="center">
+  <img width="100%" src="./sec-conectemos.svg" alt="conectemos" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruben-kamilo-castro-ruiz-558b76353"><img src="https://img.shields.io/badge/linkedin-191724?style=for-the-badge&logo=linkedin&logoColor=c4a7e7" alt="LinkedIn" /></a>
