@@ -80,7 +80,7 @@ const bencho = {
   <tr>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/construyendo-191724?style=flat-square&logo=hammer&logoColor=c4a7e7" /><br/><br/>
-      <sub>tu proyecto actual</sub>
+      <sub>My future</sub>
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/aprendiendo-191724?style=flat-square&logo=bookstack&logoColor=9ccfd8" /><br/><br/>
