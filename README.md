@@ -92,10 +92,10 @@ const bencho = {
 <h2 align="center">✦ proyectos ✦</h2>
 
 <p align="center">
-  <a href="https://github.com/Bencho911/proyecto-1"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-1&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
-  <a href="https://github.com/Bencho911/proyecto-2"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-2&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
-  <a href="https://github.com/Bencho911/proyecto-3"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-3&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
-  <a href="https://github.com/Bencho911/proyecto-4"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-4&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/CafeQuindio/helpdesk-backend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-1&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/kiora-backend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-2&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/KioraClient-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-3&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
+  <a href="https://github.com/Bencho911/cq-frontend"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Bencho911&repo=proyecto-4&hide_border=true&bg_color=191724&title_color=c4a7e7&icon_color=9ccfd8&text_color=e0def4" /></a>
 </p>
 
 <br/>
